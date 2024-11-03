@@ -6,6 +6,10 @@
 
 ## Reading list
 
+### 2024
+
+1. [Designing Distributed Systems](https://book.douban.com/subject/27050608/)
+
 ### 2023
 
 1. [Google软件工程](https://book.douban.com/subject/35838155/) ★★★✰✰
