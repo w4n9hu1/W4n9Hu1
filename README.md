@@ -1,7 +1,8 @@
-🌱 I’m currently learning [Next.js](https://nextjs.org/)
-
 [![w4n9hu1's github stats](https://github-readme-stats.vercel.app/api?username=w4n9hu1&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+🌱 I’m currently learning [Next.js](https://nextjs.org/).
+
+<!--
 ## Reading list
 
 ### 2024
@@ -35,3 +36,4 @@
 15. [中台架构与实现 基于DDD和微服务](https://book.douban.com/subject/35235992/) ★★★✰✰
 16. [计算之魂](https://book.douban.com/subject/35641088/) ★★★★✰
 17. [编码](https://book.douban.com/subject/4822685/) ★★✰✰✰
+-->
